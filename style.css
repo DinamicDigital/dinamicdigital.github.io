@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Hack;
+    src: url('./font/Hack-Regular.ttf');
+}
+@font-face {
+    font-family: Hack;
+    font-weight: bold;
+    src: url('./font/Hack-Bold.ttf');
+}
+
+html * {
+    font-size: 1em !important;
+    color: #000 !important;
+    font-family: Hack !important;
+ }
