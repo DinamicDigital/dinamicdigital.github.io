@@ -1,16 +1,31 @@
+
+/* Colors
+#1d1f21 Background
+#282a2e Current Line
+#373b41 Selection
+#c5c8c6 Foreground
+#969896 Comment
+#cc6666 Red
+#de935f Orange
+#f0c674 Yellow
+#b5bd68 Green
+#8abeb7 Aqua
+#81a2be Blue
+#b294bb Purple
+*/
+
 @font-face {
     font-family: Hack;
     src: url('fonts/Hack-Regular.ttf');
 }
-/*
 @font-face {
     font-family: Hack;
     font-weight: bold;
     src: url('./font/Hack-Bold.ttf');
 }
-*/
 
 html * {
+    background-color: #1d1f21;
     font-size: 1em !important;
     color: #000 !important;
     font-family: Hack !important;
