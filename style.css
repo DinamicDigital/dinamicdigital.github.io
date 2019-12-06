@@ -26,9 +26,13 @@
 
 html * {
     background-color: #1d1f21;
-    font-size: 1em !important;
-    color: #000 !important;
+    font-size: 1em;
+    color: #fff;
     font-family: Hack !important;
+ }
+
+ str {
+    color: #b294bb;
  }
 
  h1 {
