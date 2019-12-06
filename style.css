@@ -21,7 +21,7 @@
 @font-face {
     font-family: Hack;
     font-weight: bold;
-    src: url('./font/Hack-Bold.ttf');
+    src: url('fonts/Hack-Bold.ttf');
 }
 
 html * {
