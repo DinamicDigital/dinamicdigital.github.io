@@ -29,14 +29,17 @@ html * {
     font-size: 1em;
     color: #fff;
     font-family: Hack !important;
- }
+}
 
- str {
+str {
     color: #b294bb;
- }
+}
+name{
+    color: #f0c674;
+}
 
- h1 {
-     font-family: Hack;
- }
+h1 {
+    font-family: Hack;
+}
 
  
