@@ -78,3 +78,8 @@ egg {
 	flex-direction: row;
 	align-items: flex-start;
 }
+
+.title {
+	font-size: 20px;
+	color: #f0c674;
+}
